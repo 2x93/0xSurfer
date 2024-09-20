@@ -1,0 +1,5 @@
+/Users/2x93/CLionProjects/0xSurfer/cmake-build-debug/CMakeFiles/0xSurfer.dir
+/Users/2x93/CLionProjects/0xSurfer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/2x93/CLionProjects/0xSurfer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/2x93/CLionProjects/0xSurfer/cmake-build-debug/CMakeFiles/0xSurfer_autogen_timestamp_deps.dir
+/Users/2x93/CLionProjects/0xSurfer/cmake-build-debug/CMakeFiles/0xSurfer_autogen.dir
