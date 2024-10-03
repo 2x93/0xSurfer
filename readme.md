@@ -1,3 +1,5 @@
+<img src="res/icon.png" align=right width="64px"/>
+
 # 0xSurfer
 
 **0xSurfer** is a minimalist web browser interface built using Qt and HTML. The application allows users to search the 
@@ -13,11 +15,11 @@ interface with the powerful browser integration of Qt's `QWebEngineView`.
 
 ## Screenshots
 
+![Starting Page](res/s1.png)
+
 ## Technologies Used
 
 - **C++ with Qt**: Backend using Qt's `QWebEngineView` for rendering web pages and handling logic.
-- **HTML/CSS**: Starting page interface with a responsive design.
-- **Qt WebChannel**: For communication between the HTML frontend and the Qt C++ backend.
 
 ## Getting Started
 

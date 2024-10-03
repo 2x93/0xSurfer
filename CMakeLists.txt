@@ -6,7 +6,6 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
-
 find_package(Qt6 COMPONENTS
         Core
         Gui
@@ -14,7 +13,11 @@ find_package(Qt6 COMPONENTS
         WebEngineWidgets
         REQUIRED)
 
-add_executable(0xSurfer main.cpp)
+add_executable(0xSurfer src/main.cpp
+        src/browser.cpp
+        include/browser.h
+        include/browser.ui
+)
 target_link_libraries(0xSurfer
         Qt::Core
         Qt::Gui
